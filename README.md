@@ -1,4 +1,3 @@
-Meu README - PET Si
 ## Oi, meu nome é Salin :)
 Estudante de Sistemas de Informação na EACH-USP
 
