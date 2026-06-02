@@ -3,7 +3,7 @@ Estudante de Sistemas de Informação na EACH-USP
 
 ##
 - ⚙️ Curioso pelo que acontece por trás dos sistemas
-- 💻 Java (intermediário) | C (básico)
+- 💻 Java (avançado) | C (intermediário)
 - 🧠 Aprendendo na prática, um erro de cada vez
 - 🛠️ Atualmente mais focado em:
 
